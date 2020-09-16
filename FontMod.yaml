@@ -1,0 +1,23 @@
+# FontMod
+fonts:
+  DAOpenSans:
+    replace: 源泉圓體 L
+  DAOpenSansItalic:
+    replace: 源泉圓體 L
+  DAOpenSansRegular:
+    replace: 源泉圓體 R
+  DAOpenSansRegularItalic:
+    replace: 源泉圓體 R
+  DAOpenSansSemibold:
+    replace: 源泉圓體 M
+  DAOpenSansSemiboldItalic:
+    replace: 源泉圓體 M
+  DAOpenSansBold:
+    replace: 源泉圓體 B
+  DAOpenSansBoldItalic:
+    replace: 源泉圓體 B
+  Consolas:
+    replace: Fira Code Medium
+# fallback
+fixGSOFont: true
+debug: false
