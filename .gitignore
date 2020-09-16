@@ -1,0 +1,6 @@
+# 忽略所有檔案
+*
+# 我只要這些檔案
+!.gitignore
+!FontMod.yaml
+!README.md
